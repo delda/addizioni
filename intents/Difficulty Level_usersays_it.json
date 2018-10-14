@@ -1,0 +1,88 @@
+[
+  {
+    "id": "4f0b5849-28ce-4479-b270-1b2a17d12fe7",
+    "data": [
+      {
+        "text": "quello ",
+        "userDefined": false
+      },
+      {
+        "text": "elementare",
+        "alias": "difficultyLevel",
+        "meta": "@difficultyLevel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534976928
+  },
+  {
+    "id": "333d2cd5-03da-4777-852d-99c830a2e660",
+    "data": [
+      {
+        "text": "scelgo quello ",
+        "userDefined": false
+      },
+      {
+        "text": "elementare",
+        "alias": "difficultyLevel",
+        "meta": "@difficultyLevel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534976928
+  },
+  {
+    "id": "4a3e3e93-a3af-4197-822c-f19abda09d17",
+    "data": [
+      {
+        "text": "scelgo il livello ",
+        "userDefined": false
+      },
+      {
+        "text": "elementare",
+        "alias": "difficultyLevel",
+        "meta": "@difficultyLevel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534976928
+  },
+  {
+    "id": "ba87a69e-96cb-4c45-a3df-1fd174986d4e",
+    "data": [
+      {
+        "text": "elementare",
+        "alias": "difficultyLevel",
+        "meta": "@difficultyLevel",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534976846
+  },
+  {
+    "id": "ce5929eb-d725-4833-81ba-5d2fb8e8a237",
+    "data": [
+      {
+        "text": "livello ",
+        "userDefined": false
+      },
+      {
+        "text": "elementare",
+        "alias": "difficultyLevel",
+        "meta": "@difficultyLevel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534976846
+  }
+]

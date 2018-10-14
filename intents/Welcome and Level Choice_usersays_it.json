@@ -1,0 +1,118 @@
+[
+  {
+    "id": "45856896-0f3e-45f9-b2e1-1444022f2881",
+    "data": [
+      {
+        "text": "ehi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534717361
+  },
+  {
+    "id": "ab0d6aa9-df4f-45c1-bfcf-c72b2a3ef872",
+    "data": [
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "salve",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534717361
+  },
+  {
+    "id": "b7dc7b2b-11a5-4a86-8d43-f136d400a812",
+    "data": [
+      {
+        "text": "ciao cara",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534717361
+  },
+  {
+    "id": "0eea18a6-7737-4c57-8d6d-2682d42568c8",
+    "data": [
+      {
+        "text": " ciao ",
+        "userDefined": false
+      },
+      {
+        "text": "caro",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534717361
+  },
+  {
+    "id": "a3b0d351-c7e6-40c7-9f99-2bbb3e6f8be0",
+    "data": [
+      {
+        "text": " ciao ",
+        "userDefined": false
+      },
+      {
+        "text": "bella",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534717361
+  },
+  {
+    "id": "1a2b84b8-30eb-4e74-9b59-62f51f1dcd96",
+    "data": [
+      {
+        "text": "ciao ",
+        "userDefined": false
+      },
+      {
+        "text": "bello",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534717361
+  },
+  {
+    "id": "b6003c87-6736-4de6-997f-f999af820618",
+    "data": [
+      {
+        "text": " ciao ciao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534717361
+  },
+  {
+    "id": "425e2d7c-d6be-474a-bb8f-da84ab0ff51c",
+    "data": [
+      {
+        "text": " ciao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534717361
+  }
+]

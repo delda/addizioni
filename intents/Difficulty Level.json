@@ -1,0 +1,42 @@
+{
+  "id": "4150ae45-5e18-43ae-9d9b-c5e5bc80fa13",
+  "name": "Difficulty Level",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8d7242d2-6d61-4c62-b994-cc8900ac25ec",
+          "required": false,
+          "dataType": "@difficultyLevel",
+          "name": "difficultyLevel",
+          "value": "$difficultyLevel",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "it",
+          "speech": [
+            "Ok, vada per il livello $difficultyLevel da te scelto",
+            "Va bene: livello $difficultyLevel selezionato",
+            "Hai scelto il livello $difficultyLevel",
+            "Inizio a farti delle domande di livello $difficultyLevel"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535843944,
+  "fallbackIntent": false,
+  "events": []
+}

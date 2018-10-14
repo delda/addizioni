@@ -1,0 +1,172 @@
+[
+  {
+    "id": "56f58678-a199-451c-935f-4c0429fbece4",
+    "data": [
+      {
+        "text": "sicuramente fa ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "guessedNumber",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536521149
+  },
+  {
+    "id": "3aa9dfd0-a294-4eb1-8b2a-936509662f00",
+    "data": [
+      {
+        "text": "fa ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "guessedNumber",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536521149
+  },
+  {
+    "id": "50c77550-2959-400e-ac42-103fb8dcb50e",
+    "data": [
+      {
+        "text": "sicuramente ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "guessedNumber",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536521149
+  },
+  {
+    "id": "8478711a-7aec-43c7-960f-314dae7b1e70",
+    "data": [
+      {
+        "text": "forse è ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "guessedNumber",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536521149
+  },
+  {
+    "id": "40cb7365-9528-47b1-83e1-7c6d37fba99c",
+    "data": [
+      {
+        "text": "è ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "guessedNumber",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " per caso?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535321810
+  },
+  {
+    "id": "c0691a50-7eaf-46fa-a595-1a5d940a0d7e",
+    "data": [
+      {
+        "text": "potrebbe essere ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "guessedNumber",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535321810
+  },
+  {
+    "id": "3e92cfd7-8bb4-42fc-8ccf-357777531c0f",
+    "data": [
+      {
+        "text": "dovrebbe essere ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "guessedNumber",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535321810
+  },
+  {
+    "id": "a2f4938a-9159-4aba-b259-357c00d2c880",
+    "data": [
+      {
+        "text": "1",
+        "alias": "guessedNumber",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535321810
+  },
+  {
+    "id": "626366ba-f688-4dc2-bb6d-dc9adf576ceb",
+    "data": [
+      {
+        "text": "è ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "guessedNumber",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1536521149
+  }
+]

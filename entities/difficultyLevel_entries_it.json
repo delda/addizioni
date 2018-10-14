@@ -1,0 +1,30 @@
+[
+  {
+    "value": "base",
+    "synonyms": [
+      "base"
+    ]
+  },
+  {
+    "value": "elementare",
+    "synonyms": [
+      "bambini",
+      "facile"
+    ]
+  },
+  {
+    "value": "medio",
+    "synonyms": [
+      "medio",
+      "difficile"
+    ]
+  },
+  {
+    "value": "superiore",
+    "synonyms": [
+      "alto",
+      "impossibile",
+      "top"
+    ]
+  }
+]
